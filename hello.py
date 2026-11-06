@@ -3,3 +3,4 @@ def greet(name):
 
 name = input("What is your name? ")
 print(greet(name))
+print(greet("Python"))
